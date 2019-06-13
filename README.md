@@ -6,9 +6,8 @@ Python script to convert a specific format of question-answer pairsjson file in 
  * ``python3 json_to_csv.py --infile <parsed-json-file>``
 
 The format of json file should be in the format of:
-
+```
 {
-
     "oral_deposition": {
     
         "parsed_examinations": [
@@ -52,3 +51,4 @@ The format of json file should be in the format of:
                 }
                 
                }
+               ```
