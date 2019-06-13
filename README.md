@@ -8,10 +8,8 @@ Python script to convert a specific format of question-answer pairsjson file in 
 The format of json file should be in the format of:
 ```
 {
-    "oral_deposition": {
-    
-        "parsed_examinations": [
-        
+    "oral_deposition": {   
+        "parsed_examinations": [        
             {
             
                 "examiner": "MR. BIGGER",
