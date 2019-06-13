@@ -1,0 +1,47 @@
+{
+    "oral_deposition": {
+        "parsed_examinations": [
+            {
+                "examiner": "MR. KREINER",
+                "examination": [
+                    {
+                        "question": "For the record, this is Chris Kreiner representing R.J. Reynolds. Dr. Figlar, I have just a couple quick questions. You were asked a few questions or actually many questions about the appropriateness or inappropriateness of marketing to adult consumers that Mr. Prysock defined as 14- to 24-year-olds. Do you recall that?",
+                        "answer": "I do in general."
+                    },
+                    {
+                        "question": "If the legal smoking age, the legal age for people to purchase cigarettes in this country, was and above at certain times or 21 and above, would that affect your opinion about whether Reynolds' marketing to adult consumers 18 and above or 21 and above was appropriate or not?",
+                        "answer": "Hell, that's what I meant is that would be appropriate. I mean, depending what the adult age would be, I would say it's appropriate for us to sell the product legally to those people."
+                    },
+                    {
+                        "question": "Okay. So you don't think it's inappropriate to market to cigarette smokers who are 24 years old?",
+                        "answer": "No. VERITEXT REPORTING COMPANY www.veritext.com (212) 490-3430 CO http://www.veritext.com"
+                    },
+                    {
+                        "question": "Okay. You were asked a few questions about the composition of Reynolds' R & D and whether what number of folks were working on various aspects of reduced risk. And I think in some of your answers, you were qualifying product development versus product evaluation. To be clear, do people in the product evaluation department play any role in Reynolds' harm-reduction efforts?",
+                        "answer": "Well, I mean, yeah, they do. They give advice and they help evaluate the data we collect on those products during the development process. And, in fact, a lot of the product stewardship or product integrity folks will sit on teams when those developments are underway."
+                    },
+                    {
+                        "question": "Okay. And although you couldn't identify with specificity the number of chemists or number of biologists or toxicologists within R & D , do you have a general sense of the number of people in Reynolds' R & D who do have who do hold advanced degrees in things like chemistry and biology and toxicology?",
+                        "answer": "Yeah. There's a large proportion of folks who have both advanced degrees advanced degrees. I think it's almost 40 percent, I think, have PhDs or master's degrees. And, of course, many of our people have degrees across the board. VERITEXT REPORTING COMPANY www.veritext.com (212) 490-3430 CO O) http://www.veritext.com"
+                    },
+                    {
+                        "question": "Okay. And those people would work in things like the product development or product evaluation departments.",
+                        "answer": "Sure."
+                    },
+                    {
+                        "speaker": "MR. KREINER",
+                        "spoke": "That's all I have."
+                    },
+                    {
+                        "speaker": "MR. PRYSOCK",
+                        "spoke": "I've got a little bit more. VIDEOGRAPHER"
+                    },
+                    {
+                        "speaker": "MR. PRYSOCK",
+                        "spoke": "Go ahead and switch it because I don't know what the answer is going to be. VIDEOGRAPHER"
+                    }
+                ]
+            }
+        ]
+    }
+}
